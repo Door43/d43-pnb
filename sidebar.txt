@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnb:home|Door43 (pnb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnb|d43-pnb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnb/archive/master.zip|d43-pnb.zip]]
+
+**Recent Changes**
+{{changes>ns = pnb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnb|Ethnologue data]]
+
